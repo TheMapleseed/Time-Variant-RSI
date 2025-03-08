@@ -23,5 +23,5 @@ The main LaTeX document (`whitepaper.tex`) provides a comprehensive mathematical
 
 ## License
 
-All rights reserved. This material is proprietary and confidential.
+All rights reserved. This material is proprietary and commercial.
 © 2025 All rights reserved.
